@@ -1,4 +1,4 @@
-#Java_Testing_Demo_00_TestNG
+#Java_Testing_Ref_00_TestNG
 
 ##Based on:
 
