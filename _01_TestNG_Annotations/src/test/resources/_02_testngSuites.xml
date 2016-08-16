@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="fulltests">
+
+    <test name="front-end">
+        <classes>
+            <class name="_02_Suites.TestUI" />
+        </classes>
+    </test>
+
+    <test name="back-end">
+        <classes>
+            <class name="_02_Suites.TestSecurity" />
+            <class name="_02_Suites.TestDataBase" />
+            <class name="_02_Suites.TestBackendConfig" />
+        </classes>
+    </test>
+
+</suite>
