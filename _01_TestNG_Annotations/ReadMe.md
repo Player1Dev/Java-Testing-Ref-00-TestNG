@@ -1,7 +1,13 @@
 #_01_TestNG_Annotation
 
 ##Based on:
-http://websystique.com/java/testing/testng-annotations-example/
+<1>http://websystique.com/java/testing/testng-annotations-example/
+
+<2>http://websystique.com/java/testing/testng-groups-example/
+
+<3>http://websystique.com/java/testing/testng-suites-example/
+
+<4>http://websystique.com/java/testing/maven-surefire-plugin-testng/
 
 ##Important points:
 
