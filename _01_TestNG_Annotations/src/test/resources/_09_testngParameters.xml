@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="simple_suite">
+
+    <parameter name="global_count" value="10" />
+
+    <test name="calc">
+        <parameter name="number1"  value="30" />
+        <parameter name="number2"  value="5" />
+        <parameter name="sum"  value="35" />
+        <parameter name="difference"  value="25" />
+        <parameter name="multiplication"  value="150" />
+        <parameter name="division"  value="6" />
+        <classes>
+            <class name="_09_Parameters.TestNGParametersExample"/>
+        </classes>
+    </test>
+
+</suite>

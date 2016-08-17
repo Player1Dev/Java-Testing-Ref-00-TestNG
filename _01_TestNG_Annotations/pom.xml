@@ -27,6 +27,7 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>src/test/resources/_01_testng.xml</suiteXmlFile>
                         <suiteXmlFile>src/test/resources/_02_testngSuites.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/_09_testngParameters.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
