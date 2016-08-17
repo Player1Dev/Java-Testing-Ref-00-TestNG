@@ -12,7 +12,7 @@
         <parameter name="multiplication"  value="150" />
         <parameter name="division"  value="6" />
         <classes>
-            <class name="_09_Parameters.TestNGParametersExample"/>
+            <class name="_09_Parameters._00_Parameters.TestNGParametersExample"/>
         </classes>
     </test>
 
