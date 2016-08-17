@@ -9,6 +9,11 @@
 
 <4>http://websystique.com/java/testing/maven-surefire-plugin-testng/
 
+
+##Run Command:
+
+    mvn clean test
+
 ##Important points:
 
 @BeforeClass, @AfterClass
